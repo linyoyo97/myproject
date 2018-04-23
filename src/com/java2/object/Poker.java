@@ -4,8 +4,8 @@ import java.util.Random;
 
 public class Poker {
 
-	
-//test
+	//test
+//test 
 		Random random = new Random();
 		int[] cards = new int[52];
 		String flowers = "SHDC";
