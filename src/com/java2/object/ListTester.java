@@ -15,7 +15,9 @@ public class ListTester {
 		list.add(4);
 		System.out.println("deleting number" + list.remove(0));
 		System.out.println(list.size());
-		System.out.println(list.get(2));
+		//有多少個
+		System.out.println(list.get(0));
+		//編號從0開始對應的數字
 	}
 
 }

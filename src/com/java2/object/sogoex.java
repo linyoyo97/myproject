@@ -16,10 +16,10 @@ import com.tom.sogo.Customer;
 import com.tom.sogo.GoldenCustomer;
 import com.tom.sogo.SilverCustomer;
 
-public class Sogo {
+public class Sogoex {
 	Scanner scanner = new Scanner(System.in);
 
-	public Sogo() {
+	public Sogoex() {
 
 	}
 

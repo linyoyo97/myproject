@@ -7,7 +7,7 @@ import java.util.Random;
 public class Poker2 {
 
 	Random random = new Random();
-	String flowers = "aaaa";
+	String flowers = "SHDC";
 	ArrayList<String> card = new ArrayList<>();
 
 	
